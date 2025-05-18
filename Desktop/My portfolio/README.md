@@ -8,7 +8,10 @@ It's a simple, responsive web page built with HTML, CSS, and JavaScript.
 - ✨ Introduction section  
 - 🛠️ Projects showcase  
 - 📫 Contact information  
-![Screenshot](./screenshot.png)
-![My Photo](./sarra.jpg)
 
+
+## Preview
+![Screenshot](screenshot.png)
+
+![My Photo](./sarra.jpg)
 
